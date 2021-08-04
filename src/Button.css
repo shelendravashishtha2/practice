@@ -1,0 +1,11 @@
+
+button{
+    margin: 10px;
+    height: 4rem;
+    width: 4rem;
+    box-shadow: 3px -2px 8px;
+    font-size: 2rem;
+    border-radius: 10px 10px 10px 10px;
+    background-color: chocolate;
+    color: white;
+}
