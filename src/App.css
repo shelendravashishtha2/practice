@@ -15,6 +15,7 @@ input{
     transform: translateX(-50%);
     width: 80%;
     border-radius: 10px;
+    text-align: end;
     margin:10px;
     font-size: 2em;
 }
